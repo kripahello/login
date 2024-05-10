@@ -1,0 +1,64 @@
+body {
+    background-color: khaki;
+}
+
+main{
+    width: 30%;
+    background-color: aliceblue;
+    margin: 17rem 30rem  ;
+}
+
+form:first-child{
+    input{
+        width: 12rem;
+        margin: .3rem;
+        border-radius: 5px;
+        background-color: olive;
+        opacity: .7;
+    }
+}
+
+form:first-child{
+    padding: 3rem;
+    width: 20rem;
+    text-align: center;
+}
+
+form:last-child{
+    
+}
+
+form:last-child{
+    input{
+        width: 12rem;
+        margin: .3rem;
+        border-radius: 5px;
+        background-color: grey;
+        opacity: .7;
+    }
+}
+
+form:last-child{
+    padding: 3rem;
+    width: 20rem;
+    text-align: center;
+}
+
+form:last-child{
+    
+        button{
+           text-align: center;
+           background-color:lawngreen;
+           
+        }
+    
+}
+
+#firstName,#lastName{
+    width: 44%;
+    text-align: center;
+}
+
+#phoneNumber, #email,#setPassword {
+    width: 20rem;
+}
